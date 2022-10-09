@@ -92,6 +92,7 @@ fig_product_sales = px.bar(
 fig_product_sales.update_layout(
     plot_bgcolor='rgba(0,0,0,0)',
     xaxis=(dict(showgrid=False)),
+    margin={'pad': 20},
 )
 
 
