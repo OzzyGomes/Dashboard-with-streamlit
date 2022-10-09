@@ -1,4 +1,4 @@
-openpyxl==3.0.9
+openpyxl
 pandas
-plotly-express==0.4.1
-streamlit==1.13.0
+plotly-express
+streamlit
